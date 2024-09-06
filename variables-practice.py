@@ -39,4 +39,7 @@ print (my_age)
 # Use the print function to print your age on your computer screen
 first_name = 'Matthew'
 print(first_name)
-
+city = 'Traverse City'
+print(city)
+age = 16
+print(age)
