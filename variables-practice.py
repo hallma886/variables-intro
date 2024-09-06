@@ -27,9 +27,10 @@ print(greeting)function
 # Define a variable called conversion_factor and assign it the value of 2.54 (a float/floating-point number)
 # Define a variable called book_price and assign it a value of 20.99 (a float/floating-point number)
 # Use the print function to print the value of one of three variables you created in Part 2
-my_age = 26
+my_age = 16
 conversion_factor = 2.54
-
+book_price = 20.99
+print(my_age)function
 # Part 3 / Working with the print ( ) Function
 # Create three different variables, one for each piece of data described below
 # Remember to follow the rules for naming Python variables
