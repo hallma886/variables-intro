@@ -20,8 +20,8 @@
 # Use the print function to print the value of one of three variables you created in Part 1
 school = 'Career Tech'
 favorite_singer = "Michael Jackson"
-greeting = "Good Morning'
-print(greeting)
+greeting = 'Good Morning'
+print(greeting)function
 # Part 2 / Working with Numbers (Numeric Data)
 # Define a variable called my_age and assign it your age as an integer
 # Define a variable called conversion_factor and assign it the value of 2.54 (a float/floating-point number)
