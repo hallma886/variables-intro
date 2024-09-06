@@ -11,7 +11,7 @@
     -  Assignment operator
 
 2. In plain English, explain the difference between **string data** data and **numeric data**.
-    -  **string data** is text and **numeric** data in numbers
+    -  **string data** is text and **numeric data** in numbers
 
 
 3. List 2 - 3 guidelines to keep in mind when naming your Python variables.
