@@ -21,7 +21,7 @@
 school = 'Career Tech'
 favorite_singer = "Michael Jackson"
 greeting = 'Good Morning'
-print(greeting)function
+print (greeting) function
 # Part 2 / Working with Numbers (Numeric Data)
 # Define a variable called my_age and assign it your age as an integer
 # Define a variable called conversion_factor and assign it the value of 2.54 (a float/floating-point number)
@@ -30,10 +30,12 @@ print(greeting)function
 my_age = 16
 conversion_factor = 2.54
 book_price = 20.99
-print(my_age)function
+print (my_age) function
 # Part 3 / Working with the print ( ) Function
 # Create three different variables, one for each piece of data described below
 # Remember to follow the rules for naming Python variables
 # Use the print function to print your first name on your screen
 # Use the print function to print the name of the city you live in on your screen
 # Use the print function to print your age on your computer screen
+
+
